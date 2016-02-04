@@ -1,0 +1,38 @@
+body {
+	background-color: #999999;
+	color: #111111;
+	font-family: Georgia, "Times new roman", times, serif;
+	font-size: 16px;
+}
+
+h1, h2, h3 {
+	color: rgba(145, 91, 199, 0.5);
+	font-family: Helvetica, arial, sans-serif;
+	font-size: 48px;	
+	font-weight: 800;
+	text-transform: uppercase;
+}
+
+
+h1 {
+	font-size: 36px;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+h3 {
+	font-size: 16px;
+}
+
+.lighten {background-color: #000000;
+}
+
+.ulined {
+	border: 10px solid #FFFFFF;
+}
+
+header > img {
+	border: 25px solid #000000;
+}
